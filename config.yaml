@@ -212,3 +212,8 @@ languages:
         #   title: Gitlab
         copyright: Julia белая краска - 2020
       
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
