@@ -1,0 +1,10 @@
+"0","require(pdftools) # reads Pdf"
+"2","Loading required package: pdftools
+"
+"2","Using poppler version 22.02.0
+"
+"0","require(tm) # text mining"
+"2","Loading required package: tm
+"
+"2","Loading required package: NLP
+"
