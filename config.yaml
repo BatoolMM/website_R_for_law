@@ -165,6 +165,9 @@ menu:
     - name: "About"
       url: "/content/about/"
       weight: 1
+    - name: "Credits"
+      url: "/content/credits/"
+      weight: 1
     - name: "Why R"
       url: "/content/topic_1"
       weight: 2
