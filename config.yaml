@@ -169,10 +169,10 @@ menu:
       url: "/content/credits/"
       weight: 1
     - name: "Why R"
-      url: "/content/topic_1"
+      url: "/content/why_r"
       weight: 2
     - name: "关于"
-      url: "/content/topic_1"
+      url: "/content/r_examples"
       weight: 3
 ###################################################################
 ################## multilanguage support options ##################
