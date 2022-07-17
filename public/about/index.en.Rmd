@@ -19,17 +19,20 @@ Learning R, especially if its your first time is often overwhelming. In my exper
 
 ## Community contributions: why I learnt R and why I encourage learning R
 
-The 
 
-_**This website was created using the skills I have learnt with R. Learning a tool such as R gives you a lot more than the ability to analyse text and numbers**_
+>This website was created using the skills I have learnt with R. Learning a tool such as R gives you a lot more than the ability to analyse text and numbers
 
 # How to get in touch 
 
-Send me an email at: biandrijoubert@gmail.com   
-Github:  
-Instagram:    
-Twitter:   
-LinkedIn:  
+Send me an email at: biandrijoubert@gmail.com,  [Github](https://github.com/b14-RSA), 
+[Twitter](https://twitter.com/biandri) or   
+[LinkedIn](https://www.linkedin.com/in/biandri-joubert-8270763b/?original_referer=https%3A%2F%2Fgithub.com%2F) 
 
 # Licence
+
+All material is available under a [CC-BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
+
+
 ## What you can and cannot do with the resource
+
+[CC-BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/) allows you to reuse, remix, transform, and build upon the material but with attribution.

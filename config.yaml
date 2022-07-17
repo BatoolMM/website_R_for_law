@@ -165,15 +165,15 @@ menu:
     - name: "About"
       url: "/content/about/"
       weight: 1
+    - name: "Why R?"
+      url: "/content/why_r"
+      weight: 2
+    - name: "R Examples"
+      url: "/content/r_examples"
+      weight: 3
     - name: "Credits"
       url: "/content/credits/"
       weight: 1
-    - name: "Why R"
-      url: "/content/why_r"
-      weight: 2
-    - name: "关于"
-      url: "/content/r_examples"
-      weight: 3
 ###################################################################
 ################## multilanguage support options ##################
 ###################################################################
