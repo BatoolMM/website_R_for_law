@@ -160,6 +160,17 @@ params:
     # option to specify the copyright in the footer
     copyright: Biandri Joubert - 2022
 
+menu:
+  main:
+    - name: "About"
+      url: "/content/about/"
+      weight: 1
+    - name: "Why R"
+      url: "/content/topic_1"
+      weight: 2
+    - name: "关于"
+      url: "/content/topic_1"
+      weight: 3
 ###################################################################
 ################## multilanguage support options ##################
 ###################################################################
