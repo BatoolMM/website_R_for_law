@@ -19,4 +19,4 @@ This project was possible with the help from a number of people. Thank you to:
 - Julia Müller and Esther Plomp for making the time to chat with me during the course of OLS-5
 
 
-**The avatar images used on the site come from [this website](https://getavataaars.com/). These are free for personal and commercial use. Check them out!
+The avatar images used on the site come from [this website](https://getavataaars.com/). These are free for personal and commercial use. Check them out!
