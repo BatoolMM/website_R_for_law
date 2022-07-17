@@ -1,5 +1,5 @@
 ---
-title: "Read Me"
+title: "About"
 show_header: true
 sidebar_left: true
 # Keep this! Do not edit.
