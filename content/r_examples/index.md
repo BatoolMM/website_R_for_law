@@ -6,4 +6,6 @@ sidebar_left: true
 # Keep this! Do not edit.
 cascade:
   headless: true
+hideLastModified: true
+showInMenu: true
 ---
