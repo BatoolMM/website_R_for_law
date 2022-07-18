@@ -1,0 +1,40 @@
+---
+title: "Graphs"
+author: "Biandri Joubert"
+date: '2022-07-15'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+library(readxl)
+library(tidyverse)
+library(openxlsx)
+library(flextable)
+library(writexl)
+
+```
+
+## Analysing student marks with the help of R
+
+```{r, echo=FALSE}
+student_results<-read_excel("/Users/biandrijoubert/Google Drive/R_Projects/website_why_R/content/topic_2/graph_examples_1/student_results.xlsx")
+
+list_of_names <- unique(student_results$Name)
+
+
+```
+
+_**The following students attended this course:**_ `r paste0(list_of_names)`.
+
+For a student to qualify to sit for examination they are required to fulfill the following:
+- At least 50% class attendance.   
+- An average of 60 % across the assessments. The lowest mark falls away and the average is taken across the remaining results, including the bonus marks that are awarded during unplanned assessments in class.  
+- Class attendance of more that 70% can justify an additional 2% to the students average should they require it for qualification to sit for examination. 
+
+The course was assessed in the following manner: 
+- Three tests. Test one - 100 marks, test two - 50 marks, test three 100 marks. The best two out of three count towards the semester mark. 
+
+
+
