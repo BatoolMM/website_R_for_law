@@ -1,0 +1,13 @@
+---
+date: "2022-07-13T23:53:00+01:00"
+hideLastModified: false
+summary: The summary image should be a custom one
+summaryImage: batool.png
+tags:
+- custom_image
+- custom_summary
+title: Batool Almazrouq
+---
+
+
+This is the real text of the article.

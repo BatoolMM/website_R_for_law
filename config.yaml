@@ -160,6 +160,20 @@ params:
     # option to specify the copyright in the footer
     copyright: Biandri Joubert - 2022
 
+# menu:
+#   main:
+#     - name: "About"
+#       url: "/content/about/"
+#       weight: 1
+#     - name: "Why R?"
+#       url: "content/Why R"
+#       weight: 1
+#     - name: "R Examples"
+#       url: "/content/r_examples"
+#       weight: 1
+    # - name: "Credits"
+    #   url: "/content/credits/"
+    #   weight: 1
 ###################################################################
 ################## multilanguage support options ##################
 ###################################################################
@@ -212,3 +226,8 @@ languages:
         #   title: Gitlab
         copyright: Julia белая краска - 2020
       
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

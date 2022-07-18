@@ -1,0 +1,46 @@
+---
+title: "The lawR package"
+author: "Biandri Joubert"
+date: '2022-07-13'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Heres the package and this is what you can do with it
+
+The lawR package has been developed to make a few functions easier for R users with legal backgrounds in South Africa. I walk you through the package in this post and show you what can be done with it. 
+
+The lawR package does two things: 
+- it contains templates for popular South African law journal articles 
+- it contains two text based data sets
+
+## The main functions of the lawR package
+
+Anyone that has written an academic article will know this: _it is a pain to convert them into a different style or format once you have already done the initial work_. Another universal truth is that no two law faculties appear to able to agree on where the _italics_ should be or on a universal font, line spacing, margin size or layout. This package aims to facilitate switching between templates but also, and more importantly, getting it right from the start. This should minimize the time that a language or style editor takes to review a document and it also gives the author a sense of certainty that the the correct dots are on the "i" and the "t" is crossed at the correct level. 
+
+Everything in this package is done through R and the opensource reference manager Zotero. It is possible to use other reference managers. I will add this at a later stage. However, opensource is the mission for now and for that reason Zotero is used. 
+
+This package was created by a human. If you notice any problems or want to contribute, please get in touch via _github_ or by sending me an email. 
+
+### A few examples of what you can do!
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
