@@ -166,7 +166,7 @@ menu:
       url: "/content/about/"
       weight: 1
     - name: "Why R?"
-      url: "/content/why_r"
+      url: "content/Why R"
       weight: 1
     - name: "R Examples"
       url: "/content/r_examples"
